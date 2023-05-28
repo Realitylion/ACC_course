@@ -1,2 +1,2 @@
 # ACC_course
-Program Codes from Advanced Competitive Coding Course
+Program Codes for Advanced Competitive Coding Course
